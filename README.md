@@ -73,11 +73,6 @@ python chatbot.py
 
 ## 📸 Output Screenshot
 
-```text
-images/
-└── chatbot.png
-```
-
 ![Gemini Chatbot Output](images/chatbot.png)
 
 ---
